@@ -23,6 +23,6 @@ Should the user decide that note is no longer needed, it can be delete by clckin
 
 ## How It Looks 
 
-noteTaker
+
 
 - - -
