@@ -22,3 +22,4 @@ Saved notes will appear on the left column. Users can access the content by clic
 Should the user decide that note is no longer needed, it can be delete by clcking on the trash icon next to the note title. 
 
 ## How It Looks 
+<img src = "public/assets/css/noteTaker.png">
