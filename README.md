@@ -21,6 +21,8 @@ Users are able to create notes by typing in a title, then put in content for the
 Saved notes will appear on the left column. Users can access the content by clicking on the title of the note. 
 Should the user decide that note is no longer needed, it can be delete by clcking on the trash icon next to the note title. 
 
+## How It Looks 
 
+noteTaker
 
 - - -
