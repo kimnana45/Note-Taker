@@ -17,7 +17,8 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## How It Works 
 
-Users are able to create notes by typing in a title, then put in content for the body. Click the save icon on the top right corner, and the notes will be save! 
+Users are able to create notes by typing in a title, then put in content for the body. Click the save icon on the top right corner, and the notes will be save!
+Saved notes will appear on the left column. Users can access the content by clicking on the title of the note. 
 
 
 
