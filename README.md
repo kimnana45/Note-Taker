@@ -19,16 +19,3 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 
 - - -
-
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.
-
-* The URL of the GitHub repository
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
