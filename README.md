@@ -23,3 +23,6 @@ Should the user decide that note is no longer needed, it can be delete by clckin
 
 ## How It Looks 
 <img src = "public/assets/css/noteTaker.png">
+
+## Technologies Used
+HTML, JavaScript, CSS, NodeJs
