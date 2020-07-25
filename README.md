@@ -17,9 +17,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 
 
-## Deploying the App
-
-You will not be able to deploy your server side code on GitHub pages. This app should be deployed on Heroku. Carefully follow the [Heroku Guide](../04-Supplemental/HerokuGuide.md) for getting your app deployed on Heroku.
 
 - - -
 
