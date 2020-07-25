@@ -1,4 +1,4 @@
-### Note Taker
+# Note Taker
 
 ## Overview
 This app can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.e taker application that can be use to take and save note.
@@ -17,6 +17,7 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## How It Works 
 
+Users are able to create notes by typing in a title, then put in content for the body. Click the save icon on the top right corner, and the notes will be save! 
 
 
 
