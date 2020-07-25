@@ -26,3 +26,5 @@ Should the user decide that note is no longer needed, it can be delete by clckin
 
 ## Technologies Used
 HTML, JavaScript, CSS, NodeJs
+
+## Deployment 
