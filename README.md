@@ -16,9 +16,22 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## How It Works 
+<<<<<<< HEAD
 
 Users are able to create notes by typing in a title, then put in content for the body. Click the save icon on the top right corner, and the notes will be save!
 Saved notes will appear on the left column. Users can access the content by clicking on the title of the note. 
 Should the user decide that note is no longer needed, it can be delete by clcking on the trash icon next to the note title. 
 
 ## How It Looks 
+=======
+
+Users are able to create notes by typing in a title, then put in content for the body. Click the save icon on the top right corner, and the notes will be save!
+Saved notes will appear on the left column. Users can access the content by clicking on the title of the note. 
+Should the user decide that note is no longer needed, it can be delete by clcking on the trash icon next to the note title. 
+
+## How It Looks 
+
+
+
+- - -
+>>>>>>> 6963e834ebf939d7a69db84e432e10730f27e492
